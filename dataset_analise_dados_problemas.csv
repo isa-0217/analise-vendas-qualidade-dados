@@ -1,0 +1,621 @@
+ID,Data,Cliente,Produto,Categoria,Quantidade,Preco_Unitario,Forma_Pagamento,Cidade,Total
+3,2024-01-03,Eduardo,Celular,Eletrônicos,3,3273.6,Pix,São Paulo,9820.8
+277,2024-10-03,  Maria  ,Notebook,Eletrônicos,-1,4438.69,Pix,Brasília,-4438.69
+152,2024-05-31,,Mouse,,2,4406.39,Pix,São Paulo,8812.78
+82,2024-03-22,Bruno,Teclado,,2,3559.78,Pix,São Paulo,7119.56
+59,2024-02-28,Ana,Mouse,,4,4495.25,Boleto,São Paulo,17981.0
+569,2025-07-22,Ana,Fone,,5,4907.42,Dinheiro,Rio de Janeiro,24537.1
+74,2024-03-14,Eduardo,Notebook,,2,3594.95,,Rio de Janeiro,7189.9
+143,2024-05-22,Daniela,Mouse,,-1,1650.69,Cartão,Rio de Janeiro,-1650.69
+158,2024-06-06,  Maria  ,Mouse,Eletrônicos,5,4970.99,Dinheiro,,24854.949999999997
+439,2025-03-14,,Tablet,Acessórios,4,980.72,Boleto,Brasília,3922.88
+240,2024-08-27,Carlos,Mouse,,4,4817.42,Pix,Brasília,24052.104566329414
+366,2024-12-31,Eduardo,Mouse,,5,3237.33,Boleto,Rio de Janeiro,16186.65
+577,2025-07-30,,Fone,Eletrônicos,-1,1780.06,Cartão,Rio de Janeiro,-1780.06
+294,2024-10-20,,Tablet,Eletrônicos,5,110.0,Cartão,Rio de Janeiro,686.5011516268654
+348,2024-12-13,Carlos,Notebook,Acessórios,3,3323.78,,Brasília,9971.34
+377,2025-01-11,Ana,Fone,Acessórios,3,3299.57,,Brasília,9898.710000000001
+469,2025-04-13,  Maria  ,Teclado,,5,2430.82,Dinheiro,Brasília,12154.1
+62,2024-03-02,Bruno,Celular,,,348.32,Dinheiro,Rio de Janeiro,
+119,2024-04-28,  Maria  ,Mouse,Eletrônicos,4,3227.76,Cartão,,16115.352415819138
+2,2024-01-02,Daniela,Tablet,Acessórios,3,1999.63,Dinheiro,Rio de Janeiro,7487.717988150704
+554,2025-07-07,Eduardo,Mouse,Eletrônicos,3,4536.87,Dinheiro,,13610.61
+450,2025-03-25,Bruno,Celular,Acessórios,,1668.31,Pix,,
+505,2025-05-19,Eduardo,Celular,Eletrônicos,5,1949.97,Pix,,12169.605914889444
+523,2025-06-06,Bruno,Fone,Acessórios,4,4023.08,Boleto,São Paulo,20086.17493154189
+442,2025-03-17,,Celular,Acessórios,2,2793.42,Cartão,Salvador,5586.84
+264,2024-09-20,  Maria  ,Celular,,1,1551.21,Pix,Salvador,1551.21
+391,2025-01-25,,Celular,Eletrônicos,1,3246.76,Cartão,Brasília,3246.76
+40,2024-02-09,  Maria  ,Celular,Acessórios,3,1929.94,Dinheiro,Rio de Janeiro,5789.82
+55,2024-02-24,Ana,Mouse,Eletrônicos,5,140.25,Pix,Brasília,701.25
+385,2025-01-19,,Mouse,Eletrônicos,,3084.05,Cartão,,
+279,2024-10-05,Carlos,Notebook,Eletrônicos,,1013.38,Dinheiro,,
+545,2025-06-28,Bruno,Tablet,,,1285.25,Cartão,Rio de Janeiro,
+379,2025-01-13,Daniela,Notebook,Eletrônicos,4,1724.42,Boleto,Brasília,6897.68
+222,2024-08-09,Carlos,Mouse,Eletrônicos,3,1763.19,Dinheiro,Brasília,5289.57
+516,2025-05-30,Daniela,Teclado,Eletrônicos,4,1528.69,Pix,,6114.76
+548,2025-07-01,  Maria  ,Celular,Acessórios,2,2276.21,Cartão,São Paulo,4552.42
+91,2024-03-31,Bruno,Fone,Eletrônicos,3,3184.1,Boleto,São Paulo,9552.3
+105,2024-04-14,,Fone,Eletrônicos,1,1410.29,Pix,Salvador,1760.3012893233674
+482,2025-04-26,Bruno,Tablet,Acessórios,,339.83,,,
+385,2025-01-19,,Mouse,Eletrônicos,,3084.05,Cartão,,
+519,2025-06-02,Carlos,Tablet,Eletrônicos,2,2176.8,Pix,Rio de Janeiro,4353.6
+473,2025-04-17,Daniela,Tablet,,4,2829.35,Boleto,,11317.4
+365,2024-12-30,Carlos,Teclado,,-1,3884.44,,,-3884.44
+139,2024-05-18,Ana,Celular,Acessórios,3,443.13,Boleto,Brasília,1329.3899999999999
+24,2024-01-24,Daniela,Tablet,,2,2745.22,Cartão,Brasília,6853.078878069467
+585,2025-08-07,  Maria  ,Notebook,Acessórios,,618.11,,São Paulo,
+340,2024-12-05,Ana,Celular,Eletrônicos,2,402.72,Dinheiro,Salvador,805.44
+470,2025-04-14,Ana,Celular,Eletrônicos,-1,3229.51,,,-3229.51
+179,2024-06-27,Ana,Mouse,Eletrônicos,1,804.46,Cartão,São Paulo,804.46
+295,2024-10-21,Eduardo,Notebook,Acessórios,4,1243.95,Pix,,4975.8
+470,2025-04-14,Ana,Celular,Eletrônicos,-1,3229.51,,,-3229.51
+56,2024-02-25,  Maria  ,Fone,Acessórios,1,1019.1,,,1019.1
+94,2024-04-03,Bruno,Tablet,,1,4104.98,Pix,São Paulo,4104.98
+427,2025-03-02,Ana,Teclado,Eletrônicos,3,2334.71,,São Paulo,7004.13
+526,2025-06-09,,Celular,Acessórios,1,710.73,,Rio de Janeiro,710.73
+183,2024-07-01,,Fone,,5,4218.06,Pix,Brasília,21090.300000000003
+177,2024-06-25,  Maria  ,Notebook,,3,1211.48,Dinheiro,,3634.44
+486,2025-04-30,,Notebook,Acessórios,4,3953.64,Cartão,São Paulo,15814.56
+561,2025-07-14,Eduardo,Notebook,Acessórios,,3335.76,Cartão,Salvador,
+558,2025-07-11,  Maria  ,Mouse,,,1769.35,Cartão,Brasília,
+464,2025-04-08,Bruno,Tablet,Acessórios,1,3116.97,,Rio de Janeiro,3116.97
+235,2024-08-22,Ana,Tablet,,-1,774.55,,Salvador,-774.55
+1,2024-01-01,  Maria  ,Celular,Eletrônicos,1,3311.48,Dinheiro,Rio de Janeiro,4133.3360610715135
+33,2024-02-02,Ana,Teclado,,1,1897.6,Pix,Rio de Janeiro,1897.6
+132,2024-05-11,Carlos,Teclado,Eletrônicos,2,3477.56,Dinheiro,Brasília,6955.12
+395,2025-01-29,Eduardo,Teclado,,2,4240.25,Pix,São Paulo,10585.223666130241
+210,2024-07-28,,Notebook,,4,626.01,Pix,Salvador,2504.04
+205,2024-07-23,Daniela,Notebook,,4,2509.97,Cartão,,10039.88
+500,2025-05-14,,Tablet,,3,3199.08,Cartão,Salvador,9597.24
+497,2025-05-11,Ana,Teclado,Acessórios,4,4668.91,,Brasília,18675.64
+204,2024-07-22,,Fone,Acessórios,1,4600.99,Dinheiro,Salvador,4600.99
+184,2024-07-02,Eduardo,Notebook,,5,2628.74,Pix,Brasília,16405.75488479642
+353,2024-12-18,,Notebook,,4,3833.64,Cartão,,15334.56
+587,2025-08-09,Ana,Teclado,Acessórios,2,3627.93,Boleto,,7255.86
+435,2025-03-10,Bruno,Tablet,Acessórios,4,1059.98,Pix,,4239.92
+114,2024-04-23,Daniela,Mouse,Eletrônicos,,3697.53,Dinheiro,Brasília,
+345,2024-12-10,,Fone,Acessórios,4,1517.85,Cartão,,6071.4
+117,2024-04-26,Ana,Teclado,Acessórios,4,523.79,Dinheiro,Rio de Janeiro,2095.16
+529,2025-06-12,  Maria  ,Tablet,Eletrônicos,,2507.48,Cartão,Salvador,
+250,2024-09-06,,Celular,Acessórios,2,3116.96,Dinheiro,Rio de Janeiro,7781.078652999544
+85,2024-03-25,,Teclado,Acessórios,5,1319.99,Cartão,Rio de Janeiro,6599.95
+571,2025-07-24,,Celular,Eletrônicos,-1,3288.16,Dinheiro,Brasília,-3288.16
+67,2024-03-07,Bruno,Tablet,Eletrônicos,5,1321.04,,Rio de Janeiro,6605.2
+220,2024-08-07,Ana,Fone,Acessórios,4,908.95,,,3635.8
+323,2024-11-18,Carlos,Teclado,Acessórios,2,4513.72,Pix,Salvador,11267.905374986238
+211,2024-07-29,,Mouse,,,4096.38,Cartão,Rio de Janeiro,
+502,2025-05-16,,Mouse,Eletrônicos,-1,635.76,Dinheiro,Salvador,-793.5454039241745
+14,2024-01-14,Eduardo,Celular,Eletrônicos,1,4398.65,Dinheiro,São Paulo,5490.324164733657
+422,2025-02-25,,Notebook,Eletrônicos,3,3459.98,,Salvador,12956.074116032301
+219,2024-08-06,Ana,Teclado,,2,2044.75,Cartão,Brasília,4089.5
+174,2024-06-22,Daniela,Fone,,4,3341.31,Pix,Salvador,13365.24
+100,2024-04-09,  Maria  ,Tablet,,,4207.31,Boleto,Brasília,
+289,2024-10-15,  Maria  ,Mouse,Eletrônicos,1,1336.08,Dinheiro,São Paulo,1336.08
+122,2024-05-01,Ana,Tablet,Acessórios,4,1198.14,Dinheiro,Brasília,4792.56
+247,2024-09-03,Bruno,Tablet,Acessórios,,573.04,Cartão,,
+28,2024-01-28,Bruno,Tablet,,4,2011.05,Boleto,Rio de Janeiro,8044.2
+23,2024-01-23,Bruno,Fone,,5,645.03,Boleto,Brasília,3225.1499999999996
+418,2025-02-21,Ana,Notebook,,,2972.22,Boleto,Rio de Janeiro,
+196,2024-07-14,,Teclado,,2,483.83,Pix,São Paulo,967.66
+178,2024-06-26,  Maria  ,Tablet,Eletrônicos,3,2026.61,Cartão,Salvador,6079.83
+92,2024-04-01,Bruno,Mouse,Eletrônicos,1,4759.45,Boleto,,4759.45
+274,2024-09-30,,Mouse,Eletrônicos,4,2658.86,,Rio de Janeiro,13274.985105560781
+409,2025-02-12,Daniela,Tablet,Eletrônicos,4,865.83,Dinheiro,,3463.32
+49,2024-02-18,Ana,Fone,Acessórios,1,2691.33,Boleto,São Paulo,2691.33
+518,2025-06-01,  Maria  ,Celular,Acessórios,,1333.52,Cartão,Brasília,
+203,2024-07-21,Eduardo,Tablet,Acessórios,1,2602.61,Cartão,Salvador,2602.61
+389,2025-01-23,Eduardo,Mouse,Eletrônicos,-1,1027.48,,Brasília,-1282.4840059519486
+286,2024-10-12,,Teclado,,1,2109.96,Pix,São Paulo,2109.96
+373,2025-01-07,Eduardo,Tablet,,3,3029.31,Dinheiro,,11343.408019826073
+200,2024-07-18,Eduardo,Mouse,Acessórios,2,2015.06,Dinheiro,São Paulo,4030.12
+13,2024-01-13,Carlos,Fone,,-1,3705.32,,Salvador,-3705.32
+80,2024-03-20,Bruno,Notebook,Acessórios,2,948.12,Dinheiro,São Paulo,1896.24
+481,2025-04-25,Daniela,Tablet,Eletrônicos,,431.44,Cartão,Salvador,
+53,2024-02-22,  Maria  ,Mouse,,5,3604.71,Dinheiro,,18023.55
+307,2024-11-02,  Maria  ,Notebook,Eletrônicos,2,1657.15,,,3314.3
+37,2024-02-06,Bruno,Celular,,5,3357.65,,Salvador,16788.25
+51,2024-02-20,Eduardo,Mouse,Acessórios,3,3836.17,Dinheiro,São Paulo,14364.737033653268
+362,2024-12-27,Bruno,Fone,,4,1068.15,Boleto,,4272.6
+227,2024-08-14,Ana,Celular,,2,4316.97,,São Paulo,8633.94
+218,2024-08-05,,Celular,,,450.55,,Salvador,
+170,2024-06-18,  Maria  ,Fone,Eletrônicos,4,528.55,Pix,São Paulo,2114.2
+261,2024-09-17,Bruno,Notebook,Acessórios,,1233.94,Dinheiro,Salvador,
+238,2024-08-25,Daniela,Notebook,,4,177.77,Cartão,Brasília,711.08
+527,2025-06-10,Carlos,Teclado,Eletrônicos,-1,448.98,Dinheiro,São Paulo,-448.98
+378,2025-01-12,Ana,Fone,,3,684.07,Pix,,2561.535506145763
+244,2024-08-31,Ana,Mouse,Eletrônicos,4,1593.49,,Brasília,6373.96
+592,2025-08-14,Bruno,Mouse,Eletrônicos,4,2318.59,Boleto,Brasília,9274.36
+357,2024-12-22,Carlos,Celular,,3,4840.91,Cartão,Brasília,14522.73
+7,2024-01-07,Eduardo,Fone,,3,288.65,Cartão,São Paulo,865.9499999999999
+120,2024-04-29,Eduardo,Tablet,Eletrônicos,3,3055.12,,São Paulo,9165.36
+521,2025-06-04,Daniela,Tablet,Eletrônicos,-1,4217.57,Boleto,Brasília,-4217.57
+410,2025-02-13,Daniela,Notebook,Eletrônicos,2,702.06,Cartão,Salvador,1404.12
+539,2025-06-22,  Maria  ,Mouse,Eletrônicos,2,391.34,,Salvador,782.68
+259,2024-09-15,Ana,Mouse,,-1,3490.42,Dinheiro,São Paulo,-4356.686090293534
+3,2024-01-03,Eduardo,Celular,Eletrônicos,3,3273.6,Pix,São Paulo,9820.8
+547,2025-06-30,Ana,Teclado,,1,3809.02,Dinheiro,São Paulo,3809.02
+588,2025-08-10,,Fone,Eletrônicos,1,384.96,,São Paulo,384.96
+134,2024-05-13,Carlos,Mouse,Acessórios,-1,685.55,Pix,Salvador,-685.55
+265,2024-09-21,Eduardo,Notebook,Eletrônicos,1,550.18,Dinheiro,São Paulo,550.18
+234,2024-08-21,Eduardo,Fone,Eletrônicos,,2023.38,,,
+404,2025-02-07,Carlos,Celular,,4,928.27,Dinheiro,Rio de Janeiro,3713.08
+249,2024-09-05,Daniela,Teclado,,5,1119.39,Boleto,,6986.022946541791
+154,2024-06-02,Carlos,Fone,Eletrônicos,2,2688.14,,São Paulo,5376.28
+11,2024-01-11,  Maria  ,Tablet,,2,3922.81,Dinheiro,,7845.62
+282,2024-10-08,,Fone,Acessórios,1,4146.31,Cartão,Salvador,4146.31
+461,2025-04-05,  Maria  ,Notebook,Acessórios,1,2092.48,,São Paulo,2611.7998722839698
+556,2025-07-09,Eduardo,Fone,Acessórios,-1,2685.48,Dinheiro,Salvador,-3351.9729321289356
+595,2025-08-17,Eduardo,Tablet,Eletrônicos,,4731.21,Boleto,Brasília,
+384,2025-01-18,,Celular,Acessórios,5,2225.05,Pix,,11125.25
+155,2024-06-03,Ana,Teclado,,2,1655.45,,,4132.612114402526
+26,2024-01-26,Ana,Notebook,Acessórios,,1656.7,Dinheiro,,
+115,2024-04-24,Daniela,Celular,Acessórios,4,4320.85,Boleto,,17283.4
+518,2025-06-01,  Maria  ,Celular,Acessórios,,1333.52,Cartão,Brasília,
+590,2025-08-12,Eduardo,Tablet,,-1,2740.51,Pix,Brasília,-2740.51
+586,2025-08-08,Daniela,Mouse,Acessórios,2,4307.69,,Brasília,8615.38
+358,2024-12-23,Ana,Notebook,,2,1512.45,Boleto,São Paulo,3024.9
+213,2024-07-31,Bruno,Teclado,Acessórios,1,4395.97,Pix,Salvador,4395.97
+267,2024-09-23,Ana,Mouse,Acessórios,,358.34,Boleto,Brasília,
+52,2024-02-21,Carlos,Celular,Eletrônicos,1,4074.28,Dinheiro,,4074.28
+86,2024-03-26,Bruno,Mouse,,4,4816.49,Pix,,19265.96
+417,2025-02-20,Daniela,Mouse,,4,2734.07,Cartão,São Paulo,10936.28
+570,2025-07-23,Eduardo,Fone,Acessórios,1,1319.82,Pix,São Paulo,1319.82
+102,2024-04-11,  Maria  ,Mouse,Eletrônicos,,1799.44,Dinheiro,São Paulo,
+337,2024-12-02,Carlos,Teclado,Eletrônicos,,469.72,Pix,Brasília,
+361,2024-12-26,,Fone,,,1940.6,Boleto,Rio de Janeiro,
+299,2024-10-25,Carlos,Teclado,Eletrônicos,2,2464.88,Boleto,Brasília,4929.76
+186,2024-07-04,  Maria  ,Notebook,Acessórios,5,491.17,Pix,São Paulo,2455.85
+232,2024-08-19,Ana,Mouse,Eletrônicos,1,915.45,Dinheiro,Salvador,1142.6499622851163
+394,2025-01-28,Bruno,Mouse,Eletrônicos,-1,4313.78,,,-4313.78
+479,2025-04-23,  Maria  ,Celular,Acessórios,2,4133.99,Pix,São Paulo,8267.98
+131,2024-05-10,Carlos,Mouse,Acessórios,2,3602.11,,Salvador,7204.22
+161,2024-06-09,Ana,Tablet,,3,3666.72,Pix,São Paulo,11000.16
+112,2024-04-21,Ana,Notebook,Acessórios,5,2953.71,Pix,São Paulo,14768.55
+310,2024-11-05,Ana,Celular,Eletrônicos,4,1910.65,Cartão,,7642.6
+468,2025-04-12,Bruno,Fone,Acessórios,5,2961.6,Boleto,Brasília,14808.0
+207,2024-07-25,Daniela,Notebook,Eletrônicos,-1,4264.55,,São Paulo,-4264.55
+596,2025-08-18,Daniela,Teclado,Eletrônicos,4,4257.38,Cartão,Brasília,17029.52
+446,2025-03-21,  Maria  ,Tablet,Eletrônicos,,3741.38,Boleto,,
+535,2025-06-18,Eduardo,Notebook,Eletrônicos,1,720.0,Boleto,São Paulo,720.0
+546,2025-06-29,Bruno,Notebook,Acessórios,2,1396.15,Boleto,,2792.3
+111,2024-04-20,Bruno,Mouse,Eletrônicos,,2286.25,Boleto,Brasília,
+344,2024-12-09,Daniela,Celular,Acessórios,1,1798.59,Dinheiro,Brasília,1798.59
+58,2024-02-27,Daniela,Mouse,Eletrônicos,2,3255.0,Pix,São Paulo,6510.0
+268,2024-09-24,Carlos,Celular,,1,2571.64,Pix,Rio de Janeiro,3209.879675581295
+562,2025-07-15,  Maria  ,Tablet,,5,4818.8,Pix,,30073.743176904904
+20,2024-01-20,Daniela,Tablet,Acessórios,-1,3999.18,Dinheiro,Rio de Janeiro,-3999.18
+412,2025-02-15,Eduardo,Notebook,Eletrônicos,2,4098.04,Boleto,Brasília,8196.08
+359,2024-12-24,Eduardo,Celular,Eletrônicos,3,3857.65,,Brasília,11572.95
+192,2024-07-10,Eduardo,Mouse,,5,228.99,Pix,Rio de Janeiro,1429.1081701003266
+157,2024-06-05,Eduardo,Tablet,Eletrônicos,2,3363.96,Dinheiro,,6727.92
+525,2025-06-08,Bruno,Teclado,Acessórios,5,2440.7,,Brasília,12203.5
+236,2024-08-23,Carlos,Teclado,,1,1869.3,Cartão,,1869.3
+167,2024-06-15,  Maria  ,Mouse,Eletrônicos,5,3465.52,Pix,,17327.6
+390,2025-01-24,Carlos,Mouse,Eletrônicos,4,4440.28,Cartão,Rio de Janeiro,17761.12
+317,2024-11-12,Ana,Celular,Acessórios,1,1611.26,Pix,São Paulo,1611.26
+229,2024-08-16,  Maria  ,Celular,,4,2460.96,Dinheiro,Rio de Janeiro,9843.84
+172,2024-06-20,Bruno,Celular,Acessórios,-1,3793.01,Dinheiro,Rio de Janeiro,-3793.01
+354,2024-12-19,Carlos,Mouse,Acessórios,5,1361.98,Dinheiro,Rio de Janeiro,6809.9
+508,2025-05-22,Daniela,Tablet,Eletrônicos,4,963.16,Cartão,,3852.64
+301,2024-10-27,Carlos,Tablet,Acessórios,-1,2762.4,,Rio de Janeiro,-2762.4
+541,2025-06-24,Ana,Tablet,Eletrônicos,5,1446.83,Dinheiro,São Paulo,7234.15
+271,2024-09-27,Eduardo,Tablet,,3,3095.34,Cartão,São Paulo,9286.02
+320,2024-11-15,  Maria  ,Teclado,Eletrônicos,-1,1310.62,,,-1310.62
+451,2025-03-26,Bruno,Notebook,,4,787.0,,Salvador,3148.0
+589,2025-08-11,,Teclado,,2,3553.78,Pix,,8871.542045921899
+153,2024-06-01,Carlos,Fone,Acessórios,-1,3271.84,Cartão,Salvador,-3271.84
+520,2025-06-03,  Maria  ,Celular,,1,4370.01,Dinheiro,Rio de Janeiro,5454.576177492579
+29,2024-01-29,,Fone,,5,3492.56,Dinheiro,,17462.8
+297,2024-10-23,Daniela,Teclado,Eletrônicos,,4017.61,Dinheiro,Salvador,
+133,2024-05-12,Ana,Teclado,Eletrônicos,,4956.72,Pix,São Paulo,
+35,2024-02-04,Carlos,Mouse,Eletrônicos,5,412.32,Pix,Rio de Janeiro,2061.6
+415,2025-02-18,,Teclado,,-1,4211.48,Dinheiro,São Paulo,-4211.48
+168,2024-06-16,Carlos,Mouse,,5,1044.62,Pix,,5223.099999999999
+511,2025-05-25,Eduardo,Teclado,Acessórios,-1,179.67,Pix,Brasília,-179.67
+215,2024-08-02,Daniela,Notebook,Acessórios,5,4039.33,Dinheiro,São Paulo,20196.65
+24,2024-01-24,Daniela,Tablet,,2,2745.22,Cartão,Brasília,6853.078878069467
+387,2025-01-21,,Tablet,Eletrônicos,-1,1241.43,Boleto,Salvador,-1241.43
+396,2025-01-30,,Mouse,,5,4598.69,Boleto,Brasília,22993.449999999997
+544,2025-06-27,Ana,Tablet,,3,4535.96,Dinheiro,São Paulo,16985.136893091254
+471,2025-04-15,Daniela,Notebook,,1,371.03,Pix,Salvador,371.03
+522,2025-06-05,Eduardo,Mouse,Acessórios,5,971.2,Cartão,Rio de Janeiro,4856.0
+31,2024-01-31,Daniela,Mouse,Acessórios,5,2271.03,Dinheiro,Brasília,14173.315548901459
+97,2024-04-06,Daniela,Fone,,4,1099.62,,Brasília,4398.48
+472,2025-04-16,Eduardo,Fone,Acessórios,4,2920.92,Dinheiro,Rio de Janeiro,11683.68
+484,2025-04-28,  Maria  ,Teclado,Eletrônicos,5,3935.24,,,19676.199999999997
+252,2024-09-08,Bruno,Mouse,Acessórios,5,802.52,,Salvador,4012.6
+372,2025-01-06,,Tablet,,2,4900.85,Pix,Brasília,9801.7
+257,2024-09-13,Ana,Celular,,2,4974.59,Pix,Salvador,9949.18
+432,2025-03-07,  Maria  ,Mouse,Eletrônicos,1,540.93,Pix,Rio de Janeiro,675.1801235445823
+402,2025-02-05,Daniela,Celular,Acessórios,,3893.41,Boleto,São Paulo,
+433,2025-03-08,Ana,Celular,Acessórios,3,2037.4,Pix,,6112.200000000001
+109,2024-04-18,  Maria  ,Mouse,,4,522.9,Cartão,Brasília,2091.6
+553,2025-07-06,Eduardo,Celular,,-1,360.13,Dinheiro,São Paulo,-360.13
+98,2024-04-07,,Teclado,Acessórios,5,3074.36,Cartão,São Paulo,15371.800000000001
+565,2025-07-18,Bruno,Teclado,Acessórios,2,308.68,Pix,Brasília,617.36
+514,2025-05-28,,Teclado,,3,1401.7,Pix,Salvador,4205.1
+169,2024-06-17,Ana,Celular,Eletrônicos,3,2702.35,Pix,Rio de Janeiro,8107.049999999999
+41,2024-02-10,,Mouse,Eletrônicos,2,4323.5,Boleto,Rio de Janeiro,8647.0
+44,2024-02-13,,Celular,Eletrônicos,5,176.93,Cartão,Rio de Janeiro,1104.205897794012
+351,2024-12-16,,Celular,,4,537.06,Dinheiro,Rio de Janeiro,2148.24
+32,2024-02-01,Ana,Fone,,5,1225.84,Cartão,Brasília,6129.2
+46,2024-02-15,Daniela,Celular,,,1931.97,,Brasília,
+342,2024-12-07,Carlos,Tablet,Acessórios,3,4784.68,Boleto,Brasília,17916.48180090562
+61,2024-03-01,,Fone,Eletrônicos,3,4638.82,Cartão,Rio de Janeiro,13916.46
+142,2024-05-21,Ana,Mouse,Acessórios,4,999.74,Dinheiro,,4991.437536926855
+87,2024-03-27,Daniela,Tablet,Acessórios,-1,2443.55,Cartão,Rio de Janeiro,-2443.55
+309,2024-11-04,Ana,Fone,,-1,2406.29,Cartão,Rio de Janeiro,-2406.29
+81,2024-03-21,Daniela,Notebook,Acessórios,4,2649.56,Boleto,Salvador,13228.552664032564
+428,2025-03-03,Daniela,Celular,,5,96.19,Boleto,,480.95
+140,2024-05-19,Daniela,Celular,,4,474.01,Boleto,Brasília,1896.04
+198,2024-07-16,Bruno,Tablet,Acessórios,,2791.32,,Rio de Janeiro,
+255,2024-09-11,Eduardo,Celular,,2,2326.01,Cartão,Salvador,4652.02
+223,2024-08-10,,Celular,Eletrônicos,5,4879.27,Pix,São Paulo,24396.350000000002
+573,2025-07-26,Eduardo,Mouse,Acessórios,,2848.38,Pix,Salvador,
+269,2024-09-25,,Notebook,Acessórios,3,4983.65,Cartão,Salvador,14950.949999999999
+510,2025-05-24,Daniela,Teclado,Eletrônicos,-1,1705.83,,Brasília,-1705.83
+104,2024-04-13,Ana,Tablet,,2,3913.6,Cartão,Rio de Janeiro,7827.2
+149,2024-05-28,Eduardo,Fone,,-1,4011.76,Boleto,Rio de Janeiro,-5007.41429100108
+408,2025-02-11,Ana,Mouse,Eletrônicos,1,263.71,Dinheiro,Salvador,329.15857944640123
+123,2024-05-02,  Maria  ,Tablet,,,1984.98,Boleto,São Paulo,
+581,2025-08-03,Daniela,Teclado,Eletrônicos,-1,1292.28,Pix,,-1292.28
+330,2024-11-25,Ana,Teclado,Eletrônicos,-1,379.93,Cartão,Rio de Janeiro,-379.93
+509,2025-05-23,Daniela,Fone,,4,1843.07,Dinheiro,São Paulo,7372.28
+443,2025-03-18,Bruno,Celular,,-1,75.89,Dinheiro,Rio de Janeiro,-75.89
+369,2025-01-03,Ana,Teclado,Eletrônicos,4,4844.02,Cartão,Salvador,19376.08
+559,2025-07-12,Eduardo,Notebook,Eletrônicos,4,4504.18,Pix,São Paulo,18016.72
+217,2024-08-04,  Maria  ,Fone,Eletrônicos,3,1558.16,Cartão,Rio de Janeiro,4674.4800000000005
+127,2024-05-06,  Maria  ,Celular,,1,725.38,Boleto,Brasília,725.38
+206,2024-07-24,Daniela,Celular,,2,4961.18,Pix,Brasília,9922.36
+308,2024-11-03,Daniela,Celular,Acessórios,2,3699.92,Cartão,Rio de Janeiro,9236.361239735535
+582,2025-08-04,Bruno,Fone,,2,4260.55,Pix,Brasília,8521.1
+36,2024-02-05,  Maria  ,Tablet,Acessórios,,3037.07,Pix,Rio de Janeiro,
+555,2025-07-08,Ana,Celular,,2,739.26,Boleto,Salvador,1478.52
+542,2025-06-25,Daniela,Fone,,2,1345.44,,Rio de Janeiro,2690.88
+312,2024-11-07,Bruno,Celular,Acessórios,3,2324.26,Pix,,6972.780000000001
+216,2024-08-03,Ana,Tablet,Acessórios,-1,3960.65,Boleto,Salvador,-4943.619611256263
+421,2025-02-24,Ana,Notebook,,3,2846.86,Dinheiro,Salvador,8540.58
+110,2024-04-19,Eduardo,Fone,,-1,3138.1,,,-3138.1
+543,2025-06-26,Eduardo,Mouse,Acessórios,3,1272.55,Cartão,Brasília,3817.6499999999996
+156,2024-06-04,Carlos,Fone,Acessórios,,1698.36,Dinheiro,Rio de Janeiro,
+455,2025-03-30,Ana,Teclado,,-1,1873.13,Pix,Salvador,-1873.13
+425,2025-02-28,Carlos,Fone,Eletrônicos,5,3817.55,Dinheiro,Brasília,19087.75
+15,2024-01-15,Daniela,Tablet,Eletrônicos,5,2050.49,Dinheiro,São Paulo,10252.449999999999
+507,2025-05-21,Eduardo,Fone,Eletrônicos,1,2959.46,Pix,Rio de Janeiro,3693.9503603520784
+78,2024-03-18,Ana,Notebook,Acessórios,-1,946.69,Boleto,Rio de Janeiro,-1181.6432276975224
+57,2024-02-26,Bruno,Notebook,Acessórios,5,87.44,Pix,Brasília,437.2
+467,2025-04-11,Daniela,Celular,Eletrônicos,3,510.3,,São Paulo,1530.9
+426,2025-03-01,Daniela,Teclado,Acessórios,4,842.35,Pix,São Paulo,3369.4
+517,2025-05-31,,Notebook,Eletrônicos,2,4706.36,,São Paulo,9412.72
+66,2024-03-06,Eduardo,Notebook,,3,2455.07,Pix,Rio de Janeiro,7365.210000000001
+60,2024-02-29,Daniela,Notebook,,-1,1255.24,Pix,São Paulo,-1255.24
+39,2024-02-08,Daniela,Notebook,Eletrônicos,2,2344.3,Pix,Rio de Janeiro,4688.6
+276,2024-10-02,Daniela,Celular,Acessórios,,697.02,Boleto,,
+176,2024-06-24,Carlos,Notebook,Eletrônicos,3,4639.53,Pix,Salvador,13918.59
+226,2024-08-13,Eduardo,Celular,,4,706.0,,,2824.0
+10,2024-01-10,Carlos,Fone,Eletrônicos,4,4360.23,Boleto,,21769.47575533096
+598,2025-08-20,Daniela,Teclado,Eletrônicos,1,2338.36,Cartão,São Paulo,2338.36
+456,2025-03-31,Carlos,Fone,Acessórios,1,2270.62,Pix,,2834.1513543763513
+73,2024-03-13,Daniela,Fone,Acessórios,2,3071.15,Cartão,Brasília,6142.3
+493,2025-05-07,,Fone,,4,1142.03,Pix,,4568.12
+89,2024-03-29,Eduardo,Notebook,Acessórios,5,2773.62,Cartão,São Paulo,17309.939310684604
+160,2024-06-08,Carlos,Teclado,Eletrônicos,1,2811.03,Cartão,Rio de Janeiro,2811.03
+162,2024-06-10,Eduardo,Celular,,5,2352.77,Dinheiro,São Paulo,11763.85
+41,2024-02-10,,Mouse,Eletrônicos,2,4323.5,Boleto,Rio de Janeiro,8647.0
+407,2025-02-10,Ana,Celular,,3,4690.07,Pix,,17562.209761148795
+242,2024-08-29,Ana,Mouse,Acessórios,,4830.82,Boleto,São Paulo,
+185,2024-07-03,  Maria  ,Notebook,Acessórios,-1,3136.75,Boleto,,-3136.75
+410,2025-02-13,Daniela,Notebook,Eletrônicos,2,702.06,Cartão,Salvador,1404.12
+536,2025-06-19,Bruno,Celular,Eletrônicos,3,3769.31,Pix,São Paulo,11307.93
+462,2025-04-06,Bruno,Fone,,3,3493.31,,Brasília,13080.880025398066
+531,2025-06-14,Daniela,Notebook,Acessórios,5,3661.07,Dinheiro,São Paulo,18305.350000000002
+303,2024-10-29,Carlos,Mouse,Acessórios,,4229.57,Boleto,Rio de Janeiro,
+42,2024-02-11,,Celular,Eletrônicos,3,2619.45,Dinheiro,,9808.66604524905
+347,2024-12-12,Daniela,Teclado,Acessórios,,3884.53,Boleto,São Paulo,
+336,2024-12-01,Eduardo,Celular,Eletrônicos,4,256.28,Cartão,Rio de Janeiro,1279.538291919513
+383,2025-01-17,  Maria  ,Mouse,Acessórios,5,2188.78,Pix,Salvador,10943.900000000001
+266,2024-09-22,Ana,Tablet,,4,3476.2,Boleto,São Paulo,13904.8
+564,2025-07-17,Daniela,Tablet,Eletrônicos,2,4687.27,Cartão,São Paulo,9374.54
+9,2024-01-09,Bruno,Notebook,Acessórios,2,2064.19,Dinheiro,São Paulo,5152.977498824216
+460,2025-04-04,Bruno,Fone,,,1988.05,Pix,Salvador,
+166,2024-06-14,,Tablet,Eletrônicos,-1,917.75,Cartão,,-917.75
+84,2024-03-24,,Notebook,Acessórios,5,2858.2,,São Paulo,14291.0
+419,2025-02-22,Eduardo,Celular,Eletrônicos,-1,2566.38,Dinheiro,Rio de Janeiro,-2566.38
+328,2024-11-23,Daniela,Mouse,Eletrônicos,4,3201.51,Dinheiro,Salvador,15984.293105054008
+330,2024-11-25,Ana,Teclado,Eletrônicos,-1,379.93,Cartão,Rio de Janeiro,-379.93
+360,2024-12-25,Bruno,Notebook,,-1,3142.08,Cartão,Salvador,-3921.893706370439
+305,2024-10-31,Carlos,Teclado,Acessórios,2,2466.79,Cartão,Rio de Janeiro,4933.58
+182,2024-06-30,Daniela,Notebook,,4,2722.79,Pix,Salvador,10891.16
+485,2025-04-29,  Maria  ,Mouse,Acessórios,2,3553.02,,São Paulo,7106.04
+332,2024-11-27,Ana,Tablet,Acessórios,-1,793.34,Boleto,Salvador,-990.2342247848318
+475,2025-04-19,,Notebook,,-1,3037.26,Cartão,Salvador,-3037.26
+444,2025-03-19,  Maria  ,Teclado,Acessórios,5,3816.9,Cartão,Brasília,23820.965869496205
+513,2025-05-27,Daniela,Teclado,Eletrônicos,4,4166.9,Boleto,Brasília,16667.6
+584,2025-08-06,Eduardo,Tablet,,2,2640.79,,São Paulo,6592.383186198946
+580,2025-08-02,Eduardo,Notebook,Eletrônicos,-1,1165.32,Cartão,Brasília,-1165.32
+296,2024-10-22,Carlos,Mouse,Eletrônicos,2,4880.58,Dinheiro,Salvador,9761.16
+19,2024-01-19,Bruno,Mouse,,4,3823.31,Boleto,São Paulo,15293.24
+108,2024-04-17,Bruno,Tablet,Acessórios,4,3354.37,Dinheiro,Rio de Janeiro,13417.48
+260,2024-09-16,Bruno,Mouse,Eletrônicos,-1,4919.21,Dinheiro,,-4919.21
+280,2024-10-06,Ana,Mouse,,4,1870.41,Boleto,,7481.64
+392,2025-01-26,Carlos,Fone,,,1465.24,Cartão,São Paulo,
+199,2024-07-17,Bruno,Fone,Acessórios,-1,1562.35,,Brasília,-1950.1001349895148
+567,2025-07-20,Eduardo,Mouse,Eletrônicos,-1,1337.78,Pix,Salvador,-1337.78
+370,2025-01-04,Daniela,Tablet,Eletrônicos,2,4003.64,Cartão,Salvador,8007.28
+540,2025-06-23,  Maria  ,Teclado,Eletrônicos,4,332.42,Pix,São Paulo,1329.68
+321,2024-11-16,,Fone,Eletrônicos,-1,4212.31,Cartão,Rio de Janeiro,-4212.31
+549,2025-07-02,Bruno,Celular,Eletrônicos,5,3894.72,Pix,Rio de Janeiro,24306.63422967441
+209,2024-07-27,Daniela,Teclado,,3,4656.45,Cartão,Rio de Janeiro,13969.349999999999
+593,2025-08-15,Bruno,Mouse,Eletrônicos,3,2449.25,,Brasília,7347.75
+306,2024-11-01,Daniela,Notebook,Eletrônicos,-1,792.74,Cartão,,-989.4853144376024
+7,2024-01-07,Eduardo,Fone,,3,288.65,Cartão,São Paulo,865.9499999999999
+578,2025-07-31,,Tablet,,2,614.77,Cartão,,1229.54
+413,2025-02-16,,Notebook,,4,1106.88,Pix,Rio de Janeiro,4427.52
+129,2024-05-08,Carlos,Fone,Eletrônicos,2,2051.38,Cartão,,4102.76
+88,2024-03-28,,Tablet,Eletrônicos,2,4039.66,Dinheiro,Rio de Janeiro,8079.32
+107,2024-04-16,Eduardo,Fone,Eletrônicos,-1,2147.5,Dinheiro,Salvador,-2147.5
+245,2024-09-01,,Mouse,Acessórios,-1,2555.4,Dinheiro,Salvador,-2555.4
+302,2024-10-28,Bruno,Mouse,,2,2299.17,Cartão,Brasília,4598.34
+16,2024-01-16,Carlos,Fone,Eletrônicos,3,1668.81,Pix,Salvador,5006.43
+560,2025-07-13,,Notebook,Acessórios,-1,158.03,Pix,São Paulo,-158.03
+352,2024-12-17,Daniela,Tablet,Eletrônicos,-1,3318.5,Cartão,Rio de Janeiro,-3318.5
+273,2024-09-29,Bruno,Notebook,Eletrônicos,1,3138.28,Cartão,São Paulo,3138.28
+552,2025-07-05,Ana,Fone,,-1,216.39,Dinheiro,,-216.39
+391,2025-01-25,,Celular,Eletrônicos,1,3246.76,Cartão,Brasília,3246.76
+489,2025-05-03,Bruno,Teclado,,1,779.89,Boleto,Salvador,779.89
+138,2024-05-17,Bruno,Tablet,Eletrônicos,3,1407.1,,Salvador,4221.299999999999
+506,2025-05-20,Ana,Fone,Acessórios,1,2880.77,Dinheiro,Rio de Janeiro,2880.77
+322,2024-11-17,Bruno,Mouse,Acessórios,1,240.21,Dinheiro,Brasília,240.21
+397,2025-01-31,Ana,Teclado,,4,1298.59,Dinheiro,Salvador,5194.36
+181,2024-06-29,Eduardo,Teclado,,4,4638.65,Cartão,,23159.55321450152
+476,2025-04-20,,Mouse,,-1,3398.52,Cartão,Brasília,-3398.52
+339,2024-12-04,Ana,Celular,Acessórios,,406.82,Cartão,Rio de Janeiro,
+189,2024-07-07,Carlos,Teclado,Eletrônicos,,4139.03,Dinheiro,,
+341,2024-12-06,Carlos,Teclado,Eletrônicos,-1,109.94,Boleto,Salvador,-109.94
+163,2024-06-11,Bruno,Celular,Acessórios,1,347.7,,Brasília,433.99354621938386
+599,2025-08-21,  Maria  ,Fone,Acessórios,3,2088.24,Pix,Salvador,6264.719999999999
+147,2024-05-26,  Maria  ,Notebook,,,2619.35,Pix,São Paulo,
+68,2024-03-08,Daniela,Fone,Acessórios,2,1460.12,Dinheiro,Salvador,2920.24
+135,2024-05-14,Eduardo,Celular,Eletrônicos,5,565.34,Pix,São Paulo,2826.7000000000003
+95,2024-04-04,Bruno,Fone,Eletrônicos,-1,4426.82,,,-5525.485505536073
+437,2025-03-12,Bruno,Tablet,Eletrônicos,-1,3678.7,Cartão,,-4591.694157254091
+137,2024-05-16,  Maria  ,Celular,,4,2913.02,Dinheiro,,11652.08
+496,2025-05-10,,Teclado,Eletrônicos,,4991.82,Boleto,Brasília,
+77,2024-03-17,,Tablet,,,653.34,,Rio de Janeiro,
+290,2024-10-16,Ana,Mouse,Acessórios,1,3813.43,Cartão,São Paulo,3813.43
+300,2024-10-26,Daniela,Notebook,Acessórios,,593.19,,São Paulo,
+324,2024-11-19,  Maria  ,Teclado,,4,2334.31,Dinheiro,Salvador,9337.24
+278,2024-10-04,Carlos,Tablet,Acessórios,,2276.43,Pix,Brasília,
+434,2025-03-09,Carlos,Teclado,,2,4010.35,Pix,São Paulo,10011.308703370181
+75,2024-03-15,  Maria  ,Mouse,,3,1399.49,,Salvador,4198.47
+126,2024-05-05,Daniela,Notebook,Eletrônicos,,4939.54,Boleto,,
+343,2024-12-08,Carlos,Tablet,Eletrônicos,-1,3700.67,Boleto,,-3700.67
+5,2024-01-05,Carlos,Mouse,,5,3306.33,Pix,São Paulo,20634.53956962231
+338,2024-12-03,  Maria  ,Celular,,2,3595.8,,Rio de Janeiro,7191.6
+469,2025-04-13,  Maria  ,Teclado,,5,2430.82,Dinheiro,Brasília,12154.1
+492,2025-05-06,Eduardo,Teclado,Acessórios,3,488.57,Pix,Rio de Janeiro,1829.4756417291146
+575,2025-07-28,Ana,Notebook,,-1,4861.43,Dinheiro,Rio de Janeiro,-6067.958715551623
+9,2024-01-09,Bruno,Notebook,Acessórios,2,2064.19,Dinheiro,São Paulo,5152.977498824216
+440,2025-03-15,Bruno,Fone,Eletrônicos,,1809.15,Dinheiro,,
+335,2024-11-30,Eduardo,Fone,Eletrônicos,4,3417.13,,São Paulo,13668.52
+498,2025-05-12,Daniela,Teclado,,4,3230.7,Pix,Salvador,12922.8
+524,2025-06-07,Daniela,Mouse,Acessórios,2,2318.03,Pix,São Paulo,5786.655507293175
+70,2024-03-10,  Maria  ,Notebook,,3,4024.98,Cartão,,15071.745846955097
+38,2024-02-07,Daniela,Tablet,,3,3116.48,Pix,Salvador,9349.44
+403,2025-02-06,Eduardo,Teclado,Acessórios,4,3298.0,Dinheiro,Brasília,13192.0
+231,2024-08-18,Carlos,Fone,Acessórios,-1,3835.81,Pix,São Paulo,-4787.796331676085
+329,2024-11-24,Daniela,Mouse,,,3088.97,,Brasília,
+480,2025-04-24,  Maria  ,Celular,Eletrônicos,3,2516.37,Dinheiro,,7549.11
+449,2025-03-24,Carlos,Fone,,,1871.31,Pix,,
+22,2024-01-22,,Mouse,Eletrônicos,3,4098.28,Cartão,Brasília,12294.84
+420,2025-02-23,Eduardo,Fone,Eletrônicos,2,1522.86,,,3045.72
+221,2024-08-08,Ana,Fone,,-1,3490.01,Cartão,Rio de Janeiro,-4356.174334889594
+374,2025-01-08,Daniela,Notebook,,,2932.99,Pix,Rio de Janeiro,
+318,2024-11-13,Bruno,Fone,Acessórios,,3456.27,Pix,São Paulo,
+488,2025-05-02,Ana,Mouse,,1,2228.99,,São Paulo,2228.99
+34,2024-02-03,Carlos,Celular,Eletrônicos,2,1174.98,Boleto,São Paulo,2933.1822659583067
+438,2025-03-13,  Maria  ,Teclado,,2,3099.13,,Brasília,7736.568414695882
+45,2024-02-14,Carlos,Teclado,,1,1739.18,Dinheiro,Brasília,1739.18
+538,2025-06-21,,Teclado,Acessórios,4,4785.24,Dinheiro,Brasília,23891.438333170485
+356,2024-12-21,Ana,Fone,Eletrônicos,5,456.75,Pix,São Paulo,2283.75
+574,2025-07-27,  Maria  ,Tablet,,5,2346.47,Cartão,Brasília,11732.349999999999
+512,2025-05-26,  Maria  ,Notebook,Acessórios,,169.75,,São Paulo,
+224,2024-08-11,Ana,Fone,Eletrônicos,4,3222.81,Pix,Rio de Janeiro,12891.24
+406,2025-02-09,Carlos,Teclado,,1,4924.12,Pix,Rio de Janeiro,4924.12
+386,2025-01-20,,Celular,Eletrônicos,-1,4718.23,,Rio de Janeiro,-4718.23
+524,2025-06-07,Daniela,Mouse,Acessórios,2,2318.03,Pix,São Paulo,5786.655507293175
+319,2024-11-14,  Maria  ,Notebook,Eletrônicos,1,2216.14,,Brasília,2216.14
+326,2024-11-21,Bruno,Notebook,Acessórios,4,3313.8,,Salvador,13255.2
+537,2025-06-20,Eduardo,Teclado,,,3301.93,,São Paulo,
+148,2024-05-27,,Teclado,Eletrônicos,-1,384.68,Dinheiro,Brasília,-384.68
+445,2025-03-20,,Tablet,,5,224.79,,Brasília,1123.95
+311,2024-11-06,  Maria  ,Celular,,1,2002.66,,Brasília,2002.66
+27,2024-01-27,Daniela,Celular,Acessórios,5,1863.98,Cartão,,11632.949241904042
+165,2024-06-13,  Maria  ,Teclado,Acessórios,-1,4790.25,Pix,Salvador,-4790.25
+64,2024-03-04,Ana,Notebook,Eletrônicos,-1,1790.53,,Salvador,-1790.53
+21,2024-01-21,,Tablet,Acessórios,,2206.14,Boleto,Salvador,
+566,2025-07-19,Carlos,Notebook,Eletrônicos,4,2123.03,,Rio de Janeiro,8492.12
+275,2024-10-01,  Maria  ,Notebook,Acessórios,1,2159.11,Dinheiro,Brasília,2159.11
+436,2025-03-11,Ana,Tablet,,,2797.67,Cartão,Salvador,
+478,2025-04-22,Carlos,Fone,Eletrônicos,3,1385.61,,São Paulo,4156.83
+499,2025-05-13,Bruno,Notebook,,1,2135.18,Boleto,Salvador,2665.0973253284556
+228,2024-08-15,Carlos,Fone,,3,4617.65,,São Paulo,17291.029324417064
+399,2025-02-02,  Maria  ,Mouse,Eletrônicos,4,2329.67,,,11631.426457531343
+195,2024-07-13,Carlos,Mouse,Acessórios,1,1832.68,Dinheiro,Rio de Janeiro,1832.68
+285,2024-10-11,Bruno,Mouse,Acessórios,4,104.6,Cartão,São Paulo,418.4
+293,2024-10-19,Carlos,Celular,Acessórios,1,1115.25,Cartão,São Paulo,1115.25
+381,2025-01-15,Carlos,Tablet,Acessórios,3,1161.85,Cartão,,4350.607434641855
+124,2024-05-03,Ana,Celular,,1,2992.66,Cartão,Rio de Janeiro,2992.66
+180,2024-06-28,Daniela,Fone,Acessórios,,4962.79,Boleto,Salvador,
+71,2024-03-11,Daniela,Teclado,,-1,2718.85,Dinheiro,Salvador,-2718.85
+550,2025-07-03,,Mouse,Acessórios,1,373.56,Pix,Brasília,373.56
+400,2025-02-03,Ana,Notebook,,4,4217.89,Cartão,Brasília,16871.56
+151,2024-05-30,Daniela,Notebook,,3,2723.06,,Salvador,8169.18
+414,2025-02-17,Eduardo,Teclado,Eletrônicos,2,2553.97,Cartão,Salvador,5107.94
+101,2024-04-10,,Celular,Acessórios,3,4505.11,Pix,Brasília,13515.329999999998
+533,2025-06-16,  Maria  ,Notebook,Eletrônicos,5,836.6,Pix,,4183.0
+542,2025-06-25,Daniela,Fone,,2,1345.44,,Rio de Janeiro,2690.88
+349,2024-12-14,Ana,Fone,,2,966.72,Pix,Brasília,1933.44
+118,2024-04-27,Eduardo,Celular,,2,167.01,Boleto,Rio de Janeiro,334.02
+242,2024-08-29,Ana,Mouse,Acessórios,,4830.82,Boleto,São Paulo,
+466,2025-04-10,Eduardo,Mouse,,2,3981.28,,,7962.56
+208,2024-07-26,Daniela,Notebook,Eletrônicos,4,1082.13,Pix,Salvador,4328.52
+90,2024-03-30,  Maria  ,Fone,Acessórios,,264.89,Dinheiro,Rio de Janeiro,
+325,2024-11-20,Daniela,Tablet,Eletrônicos,2,3204.15,,São Paulo,6408.3
+8,2024-01-08,  Maria  ,Celular,Eletrônicos,1,4887.01,,,4887.01
+292,2024-10-18,Daniela,Celular,Eletrônicos,,2699.79,,Rio de Janeiro,
+568,2025-07-21,,Teclado,Acessórios,2,3667.56,Boleto,Salvador,7335.12
+465,2025-04-09,Ana,Notebook,,4,1809.69,Boleto,Brasília,7238.76
+253,2024-09-09,Carlos,Notebook,,1,353.68,Pix,,441.45768601343593
+477,2025-04-21,Daniela,Teclado,Eletrônicos,-1,4034.7,,Rio de Janeiro,-4034.7
+17,2024-01-17,,Notebook,Eletrônicos,3,3354.59,,Brasília,10063.77
+43,2024-02-12,  Maria  ,Celular,Eletrônicos,5,2421.95,Dinheiro,Salvador,12109.75
+254,2024-09-10,Ana,Celular,Eletrônicos,5,3914.77,Dinheiro,Salvador,19573.85
+78,2024-03-18,Ana,Notebook,Acessórios,-1,946.69,Boleto,Rio de Janeiro,-1181.6432276975224
+12,2024-01-12,Carlos,Fone,,1,2856.73,Dinheiro,,2856.73
+380,2025-01-14,Carlos,Tablet,,2,4644.01,Cartão,São Paulo,11593.157138787925
+63,2024-03-03,Bruno,Mouse,Eletrônicos,4,4675.46,Cartão,Salvador,18701.84
+430,2025-03-05,Eduardo,Teclado,Acessórios,5,3645.99,Boleto,São Paulo,22754.33030745486
+528,2025-06-11,Ana,Fone,Eletrônicos,3,3653.3,,São Paulo,10959.900000000001
+367,2025-01-01,Ana,Celular,Acessórios,-1,2675.0,Boleto,Salvador,-2675.0
+191,2024-07-09,Daniela,Fone,Acessórios,1,3558.29,Cartão,,4441.400332404289
+263,2024-09-19,,Notebook,Eletrônicos,5,650.86,,Brasília,4061.9649049805607
+72,2024-03-12,  Maria  ,Mouse,,-1,1590.97,Pix,,-1590.97
+79,2024-03-19,Daniela,Teclado,Acessórios,-1,3421.53,Dinheiro,Brasília,-3421.53
+283,2024-10-09,Eduardo,Notebook,Eletrônicos,2,3681.39,,Brasília,7362.78
+411,2025-02-14,,Celular,Acessórios,5,3643.6,Pix,,18218.0
+315,2024-11-10,Daniela,Tablet,Acessórios,3,4778.91,,Brasília,14336.73
+474,2025-04-18,Ana,Celular,,5,2825.27,Dinheiro,Rio de Janeiro,14126.35
+130,2024-05-09,Ana,Notebook,Eletrônicos,3,2169.59,Cartão,São Paulo,6508.77
+246,2024-09-02,Ana,Teclado,Eletrônicos,,2225.58,Dinheiro,Brasília,
+597,2025-08-19,Bruno,Celular,Acessórios,1,3361.66,Pix,Rio de Janeiro,3361.66
+563,2025-07-16,Carlos,Teclado,Acessórios,4,2822.83,Boleto,São Paulo,11291.32
+333,2024-11-28,,Tablet,,-1,3700.3,Dinheiro,Brasília,-4618.654929754346
+188,2024-07-06,  Maria  ,Mouse,Eletrônicos,4,682.18,Dinheiro,Rio de Janeiro,2728.72
+551,2025-07-04,,Celular,Eletrônicos,-1,2463.48,Boleto,São Paulo,-2463.48
+298,2024-10-24,Daniela,Notebook,,-1,4799.9,Cartão,São Paulo,-5991.157959443257
+304,2024-10-30,  Maria  ,Fone,Acessórios,2,535.51,Pix,,1071.02
+239,2024-08-26,  Maria  ,Notebook,Acessórios,4,719.07,Dinheiro,São Paulo,2876.28
+431,2025-03-06,Eduardo,Celular,Eletrônicos,-1,4959.46,Dinheiro,São Paulo,-4959.46
+491,2025-05-05,,Teclado,Acessórios,4,2198.4,,São Paulo,8793.6
+364,2024-12-29,,Celular,Acessórios,5,3094.31,Pix,São Paulo,19311.339804459327
+441,2025-03-16,Carlos,Mouse,Acessórios,,3929.77,Dinheiro,Brasília,
+262,2024-09-18,Daniela,Teclado,Acessórios,3,754.13,Dinheiro,Rio de Janeiro,2262.39
+144,2024-05-23,Bruno,Teclado,Acessórios,5,1171.95,Dinheiro,São Paulo,5859.75
+346,2024-12-11,Ana,Notebook,Acessórios,2,1781.03,Dinheiro,Rio de Janeiro,3562.06
+409,2025-02-12,Daniela,Tablet,Eletrônicos,4,865.83,Dinheiro,,3463.32
+501,2025-05-15,  Maria  ,Tablet,Acessórios,5,3938.98,,Brasília,19694.9
+483,2025-04-27,Bruno,Mouse,Eletrônicos,2,1704.48,Dinheiro,,3408.96
+18,2024-01-18,Eduardo,Notebook,,2,4048.84,Cartão,Rio de Janeiro,8097.68
+243,2024-08-30,Daniela,Fone,,1,2190.86,Cartão,,2734.5962055513355
+241,2024-08-28,,Fone,Acessórios,1,2770.17,Cartão,São Paulo,2770.17
+272,2024-09-28,Daniela,Tablet,,1,1565.96,Boleto,Rio de Janeiro,1565.96
+331,2024-11-26,Bruno,Celular,,3,2616.12,,São Paulo,7848.36
+54,2024-02-23,Eduardo,Tablet,Acessórios,3,4779.84,Boleto,,14339.52
+121,2024-04-30,Ana,Mouse,,1,2756.15,Pix,Salvador,2756.15
+258,2024-09-14,Carlos,Tablet,Eletrônicos,,336.01,Dinheiro,Rio de Janeiro,
+448,2025-03-23,  Maria  ,Mouse,Eletrônicos,1,4792.46,Pix,Rio de Janeiro,4792.46
+503,2025-05-17,Carlos,Fone,Acessórios,5,2079.03,,São Paulo,10395.150000000001
+214,2024-08-01,  Maria  ,Tablet,,5,4346.88,Dinheiro,Salvador,21734.4
+405,2025-02-08,Daniela,Notebook,Eletrônicos,2,2747.88,Boleto,São Paulo,5495.76
+459,2025-04-03,Eduardo,Mouse,Acessórios,-1,2985.57,Boleto,Brasília,-3726.540442295674
+99,2024-04-08,  Maria  ,Fone,Eletrônicos,3,2084.59,Dinheiro,São Paulo,7805.855103653714
+48,2024-02-17,Daniela,Notebook,Acessórios,4,2921.85,Cartão,,11687.4
+116,2024-04-25,Eduardo,Celular,Acessórios,4,1122.86,,São Paulo,4491.44
+361,2024-12-26,,Fone,,,1940.6,Boleto,Rio de Janeiro,
+334,2024-11-29,Daniela,Teclado,Acessórios,3,2585.5,Boleto,,9681.538513806876
+532,2025-06-15,Bruno,Fone,,3,3839.29,Pix,Brasília,11517.869999999999
+375,2025-01-09,  Maria  ,Tablet,,5,3752.96,,Salvador,18764.8
+314,2024-11-09,Carlos,Teclado,Eletrônicos,3,4465.82,Cartão,,13397.46
+579,2025-08-01,Daniela,Tablet,Acessórios,1,798.67,Cartão,Salvador,798.67
+490,2025-05-04,  Maria  ,Mouse,Acessórios,5,1674.55,,,8372.75
+25,2024-01-25,Eduardo,Notebook,,2,78.51,Pix,Salvador,157.02
+495,2025-05-09,Bruno,Tablet,Eletrônicos,1,3691.53,Boleto,Salvador,3691.53
+368,2025-01-02,Daniela,Mouse,Acessórios,3,257.66,Pix,,772.98
+248,2024-09-04,Daniela,Mouse,,5,3222.09,Pix,São Paulo,16110.45
+568,2025-07-21,,Teclado,Acessórios,2,3667.56,Boleto,Salvador,7335.12
+281,2024-10-07,  Maria  ,Teclado,Acessórios,4,2099.94,Cartão,Salvador,8399.76
+30,2024-01-30,Eduardo,Mouse,,4,1973.36,Pix,,7893.44
+256,2024-09-12,Ana,Teclado,Eletrônicos,,337.91,,Rio de Janeiro,
+47,2024-02-16,  Maria  ,Tablet,Eletrônicos,3,2024.17,,,6072.51
+69,2024-03-09,Daniela,Celular,,1,1571.09,Pix,Salvador,1571.09
+175,2024-06-23,Eduardo,Mouse,Eletrônicos,,3987.48,Pix,Salvador,
+591,2025-08-13,  Maria  ,Mouse,Acessórios,1,454.54,Boleto,,454.54
+83,2024-03-23,,Fone,,,579.04,Pix,São Paulo,
+233,2024-08-20,,Notebook,,,2537.7,Cartão,Brasília,
+251,2024-09-07,  Maria  ,Tablet,,3,3268.5,,Rio de Janeiro,9805.5
+113,2024-04-22,Daniela,Mouse,Eletrônicos,5,881.67,Dinheiro,Salvador,4408.349999999999
+530,2025-06-13,Carlos,Fone,Eletrônicos,5,2212.41,,Salvador,11062.05
+225,2024-08-12,Daniela,Fone,,5,4121.28,Boleto,,20606.399999999998
+270,2024-09-26,Bruno,Teclado,,,4079.15,Cartão,Rio de Janeiro,
+76,2024-03-16,Carlos,Notebook,Eletrônicos,5,2097.07,,Rio de Janeiro,10485.35
+316,2024-11-11,Ana,Tablet,Eletrônicos,,3945.17,Pix,Salvador,
+393,2025-01-27,Carlos,Celular,Acessórios,5,4088.94,Dinheiro,São Paulo,20444.7
+515,2025-05-29,Eduardo,Tablet,,5,2614.49,Dinheiro,,13072.449999999999
+150,2024-05-29,Carlos,Notebook,,3,1206.87,Cartão,Brasília,3620.6099999999997
+193,2024-07-11,  Maria  ,Mouse,Acessórios,3,1550.49,Dinheiro,,4651.47
+534,2025-06-17,Bruno,Fone,,1,3070.61,,,3070.61
+291,2024-10-17,Ana,Mouse,,5,728.69,,Rio de Janeiro,3643.4500000000003
+454,2025-03-29,Ana,Celular,Acessórios,,4981.85,Pix,Rio de Janeiro,
+594,2025-08-16,,Tablet,,1,870.58,Dinheiro,Salvador,870.58
+416,2025-02-19,Carlos,Tablet,Acessórios,2,3677.37,Dinheiro,Rio de Janeiro,7354.74
+452,2025-03-27,Bruno,Notebook,,5,1562.74,Dinheiro,Rio de Janeiro,7813.7
+154,2024-06-02,Carlos,Fone,Eletrônicos,2,2688.14,,São Paulo,5376.28
+96,2024-04-05,,Notebook,Eletrônicos,2,1178.99,Dinheiro,Salvador,2357.98
+401,2025-02-04,Eduardo,Fone,Acessórios,4,3656.03,,Brasília,14624.12
+106,2024-04-15,Eduardo,Notebook,Acessórios,2,4121.94,Boleto,Salvador,8243.88
+447,2025-03-22,Bruno,Notebook,,5,1052.28,,Salvador,5261.4
+376,2025-01-10,Carlos,Teclado,Eletrônicos,1,4068.26,Boleto,Rio de Janeiro,4068.26
+576,2025-07-29,,Celular,Eletrônicos,,3062.21,,São Paulo,
+212,2024-07-30,Carlos,Teclado,Acessórios,1,1934.09,Dinheiro,São Paulo,1934.09
+202,2024-07-20,Ana,Tablet,Acessórios,3,3022.94,Cartão,São Paulo,9068.82
+457,2025-04-01,,Notebook,,4,3624.25,Boleto,,18094.922172972125
+424,2025-02-27,  Maria  ,Mouse,Acessórios,,3199.64,Cartão,Brasília,
+146,2024-05-25,  Maria  ,Mouse,Acessórios,1,393.65,Cartão,Salvador,393.65
+288,2024-10-14,Carlos,Mouse,,1,145.0,,Salvador,145.0
+6,2024-01-06,Eduardo,Mouse,Acessórios,1,4997.1,Pix,Salvador,4997.1
+93,2024-04-02,Daniela,Notebook,,1,3027.98,,Salvador,3027.98
+4,2024-01-04,  Maria  ,Notebook,Acessórios,4,577.64,Boleto,Brasília,2884.003819823582
+494,2025-05-08,Bruno,Teclado,,1,3011.22,Pix,,3011.22
+350,2024-12-15,Daniela,Teclado,Eletrônicos,,911.84,Dinheiro,,
+453,2025-03-28,Ana,Teclado,Eletrônicos,-1,4389.42,Boleto,Salvador,-4389.42
+173,2024-06-21,Bruno,Fone,Acessórios,,1770.48,,Brasília,
+382,2025-01-16,,Tablet,Eletrônicos,3,1892.23,Dinheiro,Brasília,5676.6900000000005
+600,2025-08-22,Bruno,Notebook,,-1,3272.32,Pix,Salvador,-3272.32
+572,2025-07-25,Daniela,Teclado,Eletrônicos,5,1030.58,,Brasília,5152.9
+423,2025-02-26,Eduardo,Tablet,Acessórios,2,4372.95,Cartão,Rio de Janeiro,10916.491676388005
+197,2024-07-15,Daniela,Mouse,,4,4687.94,Dinheiro,Salvador,18751.76
+230,2024-08-17,,Fone,Eletrônicos,,3050.95,,Salvador,
+458,2025-04-02,  Maria  ,Notebook,,2,4436.67,Pix,São Paulo,8873.34
+313,2024-11-08,Ana,Teclado,Acessórios,5,3935.83,Pix,Salvador,19679.15
+125,2024-05-04,Ana,Fone,,2,2509.0,Pix,,6263.38687066111
+103,2024-04-12,Daniela,Mouse,Acessórios,-1,1222.51,Dinheiro,Brasília,-1222.51
+371,2025-01-05,Ana,Tablet,Acessórios,,1499.47,Dinheiro,Rio de Janeiro,
+504,2025-05-18,Daniela,Teclado,Eletrônicos,4,4207.02,Dinheiro,,21004.53872667095
+583,2025-08-05,Bruno,Mouse,Acessórios,3,2828.05,Pix,São Paulo,8484.150000000001
+557,2025-07-10,  Maria  ,Notebook,Eletrônicos,4,2084.92,Pix,,8339.68
+487,2025-05-01,Carlos,Notebook,Acessórios,,2610.48,Cartão,,
+201,2024-07-19,,Fone,Eletrônicos,5,2263.65,Cartão,Brasília,11318.25
+159,2024-06-07,,Fone,Eletrônicos,4,3326.1,Cartão,Salvador,16606.33803946267
+171,2024-06-19,  Maria  ,Teclado,Eletrônicos,2,2279.34,Boleto,Salvador,4558.68
+136,2024-05-15,Bruno,Notebook,,4,3635.48,Cartão,São Paulo,14541.92
+287,2024-10-13,,Tablet,Acessórios,2,2432.65,Pix,Salvador,6072.789187291252
+194,2024-07-12,Carlos,Mouse,Eletrônicos,3,1352.41,Cartão,,4057.2300000000005
+237,2024-08-24,Bruno,Notebook,Eletrônicos,,387.45,,Salvador,
+284,2024-10-10,Daniela,Mouse,Acessórios,2,3858.06,,Brasília,7716.12
+429,2025-03-04,  Maria  ,Fone,,2,1271.06,Dinheiro,Rio de Janeiro,2542.12
+388,2025-01-22,,Tablet,Eletrônicos,1,651.43,,São Paulo,651.43
+190,2024-07-08,Eduardo,Celular,Eletrônicos,3,3921.04,,Salvador,11763.119999999999
+187,2024-07-05,Eduardo,Teclado,Eletrônicos,3,3788.59,Cartão,São Paulo,11365.77
+463,2025-04-07,Carlos,Celular,Eletrônicos,1,65.93,Boleto,Salvador,65.93
+398,2025-02-01,Daniela,Notebook,Acessórios,5,3787.46,Pix,Salvador,23637.233197642614
+128,2024-05-07,Carlos,Celular,Eletrônicos,,3490.97,Pix,,
+141,2024-05-20,  Maria  ,Mouse,Acessórios,5,4476.24,Pix,Salvador,22381.199999999997
+164,2024-06-12,  Maria  ,Tablet,Acessórios,-1,2833.37,Boleto,São Paulo,-2833.37
+355,2024-12-20,,Mouse,Eletrônicos,1,153.68,Boleto,Salvador,153.68
+65,2024-03-05,Bruno,Tablet,Eletrônicos,5,552.03,Dinheiro,Salvador,2760.1499999999996
+50,2024-02-19,Carlos,Celular,Acessórios,3,3059.13,Boleto,São Paulo,9177.39
+363,2024-12-28,Bruno,Mouse,Acessórios,5,650.86,Pix,Salvador,3254.3
+327,2024-11-22,Ana,Notebook,Acessórios,,4480.83,,Brasília,
+145,2024-05-24,Ana,Tablet,,3,1807.23,Dinheiro,,5421.6900000000005
